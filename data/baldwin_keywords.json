@@ -1,0 +1,47 @@
+{
+  "status_code": "200",
+  "queries_left": 990,
+  "result": [
+    {
+      "relevance": "0.997",
+      "keyword": "baldwin"
+    },
+    {
+      "relevance": "0.883",
+      "keyword": "yor"
+    },
+    {
+      "relevance": "0.883",
+      "keyword": "cents"
+    },
+    {
+      "relevance": "0.826",
+      "keyword": "new"
+    },
+    {
+      "relevance": "0.812",
+      "keyword": "new york"
+    },
+    {
+      "relevance": "0.783",
+      "keyword": "new york city"
+    },
+    {
+      "relevance": "0.712",
+      "keyword": "national lawyers guild"
+    },
+    {
+      "relevance": "0.712",
+      "keyword": "fbi"
+    },
+    {
+      "relevance": "0.684",
+      "keyword": "jones"
+    },
+    {
+      "relevance": "0.570",
+      "keyword": "source"
+    }
+  ],
+  "consumed_queries": 1
+}

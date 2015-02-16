@@ -1,0 +1,932 @@
+{
+  "status_code": "200",
+  "queries_left": 989,
+  "result": [
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Canada"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "JAMES BAI"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "United"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Internal Security Subcommittee"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "National Laiﬁyers Guild"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "James Foreqn"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Ghandi"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Newark"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Jam"
+    },
+    {
+      "count": 2,
+      "tag": "LOCATION",
+      "entity": "BIRMINGHAM"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "CYRUS EATUN"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "New York Herald Tribune"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Bureau"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Ghana"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Emamucz"
+    },
+    {
+      "count": 3,
+      "tag": "PERSON",
+      "entity": "MALCOLM X"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "CIARENCE Joﬁié"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Isa"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "National Association"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "York"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "NCASF"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Atlanta"
+    },
+    {
+      "count": 2,
+      "tag": "PERSON",
+      "entity": "RUSTIN"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "D.C."
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "cuba"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Birminghaun Alabama"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "UNITED STATES P RTMENT OF JUSTICE FEDERAL BUREAU"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "UNITED STATES"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "CORLISS LAMONT"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Clarence Joaea"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Cincinnati"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "CHAS"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "New Jersey"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Washington"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Wayne"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "NEW CITY"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Comunist Party"
+    },
+    {
+      "count": 4,
+      "tag": "PERSON",
+      "entity": "Clarence Jones"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "JOHN IENRY FAULK"
+    },
+    {
+      "count": 16,
+      "tag": "PERSON",
+      "entity": "BALDWIN"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Bentham"
+    },
+    {
+      "count": 16,
+      "tag": "PERSON",
+      "entity": "Jones"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "ARTEIEIR HOPPE"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "KILLFIN"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "BAYARD RUSTIN"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "HENRX EAULK"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Societygggg Human Rights"
+    },
+    {
+      "count": 7,
+      "tag": "LOCATION",
+      "entity": "NEW YORK"
+    },
+    {
+      "count": 6,
+      "tag": "PERSON",
+      "entity": "JAMES BALDWIN"
+    },
+    {
+      "count": 6,
+      "tag": "ORGANIZATION",
+      "entity": "CPUSA"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "SA Civil Liberties Committee"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "congress of Racial Equality"
+    },
+    {
+      "count": 2,
+      "tag": "PERSON",
+      "entity": "J. Edgar Hoover"
+    },
+    {
+      "count": 9,
+      "tag": "LOCATION",
+      "entity": "New York City"
+    },
+    {
+      "count": 2,
+      "tag": "LOCATION",
+      "entity": "United States of America"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "I"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "l-New York"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "ED"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Federal Bureau of Investigation"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Exclu"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Southern Lawyers"
+    },
+    {
+      "count": 4,
+      "tag": "ORGANIZATION",
+      "entity": "Communist Party"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Abraham Lincoln Brigade"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "United States House of Represent"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "FTC MARTIN LUTHER KING"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Nassau County"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "WASHINGTON"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "RICHARD HILDERBRAND"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "EC"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Alndia"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "United States"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "N.Y."
+    },
+    {
+      "count": 3,
+      "tag": "ORGANIZATION",
+      "entity": "Labor Youth League"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "BROOK PETERS"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "National Council of American Soviet Friendship"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Perria"
+    },
+    {
+      "count": 2,
+      "tag": "PERSON",
+      "entity": "Jimmy"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "MALCOIM"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Special Committee"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "National Lawyers Guild Internal Security"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "NORMAN THOMAS"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "US"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Birrninghnm"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "UN"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "CLARENCE Joust"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "New York York = York York York"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "LHM"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "RUDY DEB"
+    },
+    {
+      "count": 25,
+      "tag": "PERSON",
+      "entity": "Baldwin"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "JOHN HENRY FAULK"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "HLG Committee"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "INTHHHAHHIAGH"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Brmingham"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "J. EDGAR HOOVER"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "ames Baldwin"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "POLITICA"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "washington"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Ameri"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "BALDWIEN"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "ECLO"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "ALABAMA"
+    },
+    {
+      "count": 2,
+      "tag": "PERSON",
+      "entity": "CLARENCE JONES"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "BALWIN"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Vncmssxrxxb"
+    },
+    {
+      "count": 2,
+      "tag": "LOCATION",
+      "entity": "USA"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Nun York"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "S. Doc"
+    },
+    {
+      "count": 5,
+      "tag": "LOCATION",
+      "entity": "NY"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Brooklyn"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "new YORK"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "JAMES FOREMAN"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Federal Bureau of Investigatigp"
+    },
+    {
+      "count": 2,
+      "tag": "ORGANIZATION",
+      "entity": "ECLC"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Gaston Hotel"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Jongs"
+    },
+    {
+      "count": 2,
+      "tag": "PERSON",
+      "entity": "Kennedy"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "J"
+    },
+    {
+      "count": 2,
+      "tag": "LOCATION",
+      "entity": "Detroit"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "KING HARTIN"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Jonesj"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Jamaa"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "National Lawyers Guild Cited"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Toastmaster"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "JAMES BALDIN"
+    },
+    {
+      "count": 3,
+      "tag": "ORGANIZATION",
+      "entity": "House"
+    },
+    {
+      "count": 4,
+      "tag": "ORGANIZATION",
+      "entity": "National Lawyers Guild"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "united states of America Negrc Question Comuniat"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Diane"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "ALC"
+    },
+    {
+      "count": 26,
+      "tag": "LOCATION",
+      "entity": "New York"
+    },
+    {
+      "count": 11,
+      "tag": "LOCATION",
+      "entity": "Birmingham"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "LUCIAN"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "JOHN KILLENS"
+    },
+    {
+      "count": 24,
+      "tag": "ORGANIZATION",
+      "entity": "FBI"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "EGLC"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Jenna"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Ceuniat"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "WBAI"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Sourge"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "K Newfllork"
+    },
+    {
+      "count": 2,
+      "tag": "LOCATION",
+      "entity": "Chicago"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Town Hall"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "DAVIE"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Jong §"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Ala."
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Party"
+    },
+    {
+      "count": 6,
+      "tag": "PERSON",
+      "entity": "James Baldwin"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "PETERS"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "CIO Political Action Committee"
+    },
+    {
+      "count": 2,
+      "tag": "LOCATION",
+      "entity": "Foley"
+    },
+    {
+      "count": 4,
+      "tag": "PERSON",
+      "entity": "Foreman"
+    },
+    {
+      "count": 6,
+      "tag": "ORGANIZATION",
+      "entity": "USIA"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "LARENCE"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "WALLACE"
+    },
+    {
+      "count": 2,
+      "tag": "ORGANIZATION",
+      "entity": "Emergency Civil Liberties Committee"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Baldwiggs"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Martin Luther"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Jozszxs"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Ill."
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Kennedy Administration"
+    },
+    {
+      "count": 2,
+      "tag": "ORGANIZATION",
+      "entity": "AIRTEL"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Senate Judiciary Committee"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Clarence Jonéb_as"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Panel"
+    },
+    {
+      "count": 5,
+      "tag": "PERSON",
+      "entity": "JONES"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "United Airlines"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "DWIN"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Yerk Dzviaion Raexaz"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "JOHN KILI.FI4"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Civil Rights Movement"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Jimmy Baldwin"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "JOHN KILLI"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Gandhi"
+    },
+    {
+      "count": 3,
+      "tag": "LOCATION",
+      "entity": "Alabama"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "American Committee for Protection of Foreign Born"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "South"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "B. BOUDIN"
+    },
+    {
+      "count": 2,
+      "tag": "LOCATION",
+      "entity": "NEW YORK CITY"
+    },
+    {
+      "count": 2,
+      "tag": "PERSON",
+      "entity": "CYRUS EATON"
+    },
+    {
+      "count": 1,
+      "tag": "LOCATION",
+      "entity": "Cuba"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "Ala"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Justice Department"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "New York National Broadcasdng Company"
+    },
+    {
+      "count": 1,
+      "tag": "PERSON",
+      "entity": "JOHN KILLFN"
+    },
+    {
+      "count": 1,
+      "tag": "ORGANIZATION",
+      "entity": "Wayne State University"
+    }
+  ],
+  "consumed_queries": 1
+}
